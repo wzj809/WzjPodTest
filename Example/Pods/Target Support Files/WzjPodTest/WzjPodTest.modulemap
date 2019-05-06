@@ -1,0 +1,6 @@
+framework module WzjPodTest {
+  umbrella header "WzjPodTest-umbrella.h"
+
+  export *
+  module * { export * }
+}

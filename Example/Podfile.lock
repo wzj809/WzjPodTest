@@ -1,0 +1,16 @@
+PODS:
+  - WzjPodTest (0.1.0)
+
+DEPENDENCIES:
+  - WzjPodTest (from `../`)
+
+EXTERNAL SOURCES:
+  WzjPodTest:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WzjPodTest: cd8ec7cf66af290597503454e82d6924090d017d
+
+PODFILE CHECKSUM: 4d93219020fef79200d9d52180cac49a57f1e27f
+
+COCOAPODS: 1.5.3

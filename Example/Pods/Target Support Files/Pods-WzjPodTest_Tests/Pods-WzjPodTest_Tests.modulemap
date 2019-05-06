@@ -1,0 +1,6 @@
+framework module Pods_WzjPodTest_Tests {
+  umbrella header "Pods-WzjPodTest_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
